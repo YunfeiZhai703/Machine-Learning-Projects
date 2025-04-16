@@ -1,9 +1,5 @@
 # Machine Learning Project
 ML projects and reports done during my final year of studies in University.
-# Machine Learning Project Tasks Overview
-
-This repository hosts a collection of three probabilistic machine‑learning mini‑projects developed during the 4F13 *Probabilistic Machine Learning* course.\
-Each subsection summarises the core tasks you will find in the corresponding `./<project‑name>/` folder.
 
 ## 1 Gaussian‑Process Regression
 
